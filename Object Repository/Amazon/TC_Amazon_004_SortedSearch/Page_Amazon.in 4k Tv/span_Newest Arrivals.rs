@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Newest Arrivals</name>
+   <tag></tag>
+   <elementGuidId>78f93953-0648-419c-84cc-25fad78d2bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-dropdown-prompt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>842d21df-81e1-4c42-8b62-fd9c1dd11e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dropdown-prompt</value>
+      <webElementGuid>bd981f6a-3443-421f-b3fb-cd982fdf4df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Newest Arrivals</value>
+      <webElementGuid>4f5a4950-8c8d-47b8-9996-bfe23dde1af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-autoid-13-announce&quot;)/span[@class=&quot;a-dropdown-prompt&quot;]</value>
+      <webElementGuid>6bcb9c8c-412f-4a07-8eaa-b3c5b2c04e12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='a-autoid-13-announce']/span[2]</value>
+      <webElementGuid>ff98d1a8-f0f1-4577-84c6-d78feb163906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span[2]</value>
+      <webElementGuid>36159a43-8b94-41b4-908e-f49fd6dc4fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Newest Arrivals' or . = 'Newest Arrivals')]</value>
+      <webElementGuid>21328cd4-54b2-4616-b912-5dd8dbd06bc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

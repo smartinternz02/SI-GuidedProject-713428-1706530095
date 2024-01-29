@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Language Settings</name>
+   <tag></tag>
+   <elementGuidId>b61857f9-fedd-4a1c-b8dd-6208d8e205d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-language-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='icp-language-heading']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a207196e-446b-43f7-a819-87ca6f32e4d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>icp-language-heading</value>
+      <webElementGuid>1a22fffd-5036-4993-9c6b-d79c0a560969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-spacing-base</value>
+      <webElementGuid>be49d360-96ca-4071-abf7-24848003888b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Language Settings
+    </value>
+      <webElementGuid>9c99ddeb-9155-405d-b1b4-2bc51b327f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-language-heading&quot;)</value>
+      <webElementGuid>f4780aa6-88d2-4e9b-9d5b-e6501fc4cb2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='icp-language-heading']</value>
+      <webElementGuid>1da568ba-e51a-4b81-a5d7-10a5eae4cfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='icp-language-headings']/h3</value>
+      <webElementGuid>272b2a49-63b0-4c0d-b081-95dcc956b2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>45e2f0a1-4843-418f-b6f6-15b5af66054a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'icp-language-heading' and (text() = '
+        Language Settings
+    ' or . = '
+        Language Settings
+    ')]</value>
+      <webElementGuid>6c068fcc-b357-428f-b192-681a887d7899</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

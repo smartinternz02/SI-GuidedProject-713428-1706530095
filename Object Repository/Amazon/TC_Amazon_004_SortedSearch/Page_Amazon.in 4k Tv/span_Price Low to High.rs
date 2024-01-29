@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price Low to High</name>
+   <tag></tag>
+   <elementGuidId>2251e8e5-27d0-4b4d-83e6-d635bb27e4da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-dropdown-prompt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4364f52-3ac7-4d81-84d6-4abd0e91f439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dropdown-prompt</value>
+      <webElementGuid>df4955b6-efe9-43d7-83d5-6128035ef620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: Low to High</value>
+      <webElementGuid>127ba2d0-1bdd-4c0e-a7fb-c4198e357bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-autoid-4-announce&quot;)/span[@class=&quot;a-dropdown-prompt&quot;]</value>
+      <webElementGuid>f013e263-6a06-4d8d-bbf2-1eee59a77640</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='a-autoid-4-announce']/span[2]</value>
+      <webElementGuid>3306b6ff-f782-4b74-8d25-6034a12eb900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span[2]</value>
+      <webElementGuid>01c06460-b2ee-4fb1-9db9-13d6c2a3baec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Price: Low to High' or . = 'Price: Low to High')]</value>
+      <webElementGuid>9dfe850f-2f64-472d-bcc9-43f7d1d72486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

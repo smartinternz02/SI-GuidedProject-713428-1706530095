@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 20,000</name>
+   <tag></tag>
+   <elementGuidId>9e82bcea-7222-4875-9fd5-6892cfa1ba7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/ul/span/span[2]/li/span/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f41b4bc2-9d26-4380-9fea-91d602fb22a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base a-color-base</value>
+      <webElementGuid>7e2bf01b-fa74-40f7-8ced-13658de2b54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over ₹20,000</value>
+      <webElementGuid>95a67709-2504-4175-b28a-a4906f105664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_36/1318507031&quot;)/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal s-navigation-item&quot;]/span[@class=&quot;a-size-base a-color-base&quot;]</value>
+      <webElementGuid>2e964272-e852-43f1-ba58-f0901ddbbbe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='p_36/1318507031']/span/a/span</value>
+      <webElementGuid>85c7d1d3-9886-4673-a7fc-1f55e6fcb30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/span/span[2]/li/span/a/span</value>
+      <webElementGuid>f5eeeab8-06d6-4cef-bf0a-185032e65705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over ₹20,000' or . = 'Over ₹20,000')]</value>
+      <webElementGuid>96ce815c-47f9-4abf-b19c-14314276ec01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

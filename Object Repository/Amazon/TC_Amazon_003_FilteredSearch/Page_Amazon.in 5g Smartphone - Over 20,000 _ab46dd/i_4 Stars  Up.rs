@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_4 Stars  Up</name>
+   <tag></tag>
+   <elementGuidId>c6340820-bd8d-44d2-8097-effdfb2ff625</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-star-medium.a-star-medium-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>12e93955-908a-40f9-b4ea-353bc2275472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-star-medium a-star-medium-4</value>
+      <webElementGuid>7b8ee06f-bea8-4b69-9274-f1cd445ad47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4 Stars &amp; Up</value>
+      <webElementGuid>7b3322b7-1c48-4e72-b42b-98b80a416603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_72/1318476031&quot;)/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal s-navigation-item&quot;]/section[1]/i[@class=&quot;a-icon a-icon-star-medium a-star-medium-4&quot;]</value>
+      <webElementGuid>eb41aa1c-f439-4bbc-911b-2a3bd2ec2c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='p_72/1318476031']/span/a/section/i</value>
+      <webElementGuid>508d1d24-b7df-4120-9dfe-9671176bb7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/i</value>
+      <webElementGuid>b8823a3a-84d5-4f76-b142-fdf0d825b640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = '4 Stars &amp; Up' or . = '4 Stars &amp; Up')]</value>
+      <webElementGuid>344fc81d-406c-43f0-abc6-de7e42907065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
