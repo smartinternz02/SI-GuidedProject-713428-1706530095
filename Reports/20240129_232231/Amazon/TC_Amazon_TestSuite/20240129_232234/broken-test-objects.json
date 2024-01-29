@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Over 20,000",
+      "brokenLocator": "//li[@id\u003d\u0027p_36/1318507031\u0027]/span/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[6]/ul/span/span[2]/li/span/a/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240129_232231/Amazon/TC_Amazon_TestSuite/20240129_232234/Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Over 20,000_position.png"
+    }
+  ]
+}

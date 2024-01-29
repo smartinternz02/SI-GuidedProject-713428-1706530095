@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Avg. Customer Review",
+      "brokenLocator": "//span[@id\u003d\u0027a-autoid-10-announce\u0027]/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/span/span/span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240128_185724/Amazon/TC_Amazon_TestSuite/20240128_185725/Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Avg. Customer Review_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Newest Arrivals",
+      "brokenLocator": "//span[@id\u003d\u0027a-autoid-13-announce\u0027]/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/span/span/span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240128_185724/Amazon/TC_Amazon_TestSuite/20240128_185725/Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Newest Arrivals_position.png"
+    }
+  ]
+}

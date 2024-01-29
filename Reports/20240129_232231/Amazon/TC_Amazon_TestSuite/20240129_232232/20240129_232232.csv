@@ -1,0 +1,158 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_TestSuite,Chrome 121.0.0.0,,,29-01-2024 23:22:41,29-01-2024 23:26:56,4m - 15.256s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_001,Chrome 121.0.0.0,,,29-01-2024 23:22:41,29-01-2024 23:22:50,8.916s,PASSED
+"openBrowser(""Amazon.in"")",Chrome 121.0.0.0,,,29-01-2024 23:22:41,29-01-2024 23:22:45,3.506s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:22:45,29-01-2024 23:22:45,0.133s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_in""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:45,29-01-2024 23:22:45,0.671s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/div_All""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:45,29-01-2024 23:22:46,0.269s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_All""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:46,29-01-2024 23:22:46,0.257s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Fresh""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:46,29-01-2024 23:22:47,0.714s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Amazon miniTV""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:47,29-01-2024 23:22:47,0.273s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Sell""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:47,29-01-2024 23:22:47,0.266s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Best Sellers""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:47,29-01-2024 23:22:47,0.273s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Todays Deals""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:47,29-01-2024 23:22:48,0.280s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Mobiles""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:48,29-01-2024 23:22:48,0.501s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Electronics""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:48,29-01-2024 23:22:48,0.270s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Customer Service""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:48,29-01-2024 23:22:49,0.279s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Prime""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:49,29-01-2024 23:22:49,0.289s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_New Releases""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:49,29-01-2024 23:22:49,0.268s,PASSED
+"verifyElementPresent(findTestObject(""Amazon/TC_Amazon_001_Homepage/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Gift Ideas""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:22:49,29-01-2024 23:22:50,0.283s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:22:50,29-01-2024 23:22:50,0.157s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_002,Chrome 121.0.0.0,,,29-01-2024 23:22:50,29-01-2024 23:23:21,30.921s,PASSED
+"openBrowser(""www.amazon.in"")",Chrome 121.0.0.0,,,29-01-2024 23:22:50,29-01-2024 23:22:52,1.942s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:22:52,29-01-2024 23:22:52,0.125s,PASSED
+"setText(findTestObject(""Amazon/TC_Amazon_002_ItemSearch/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/input_Search Amazon.in_field-keywords""), items)",Chrome 121.0.0.0,,,29-01-2024 23:22:52,29-01-2024 23:23:05,13.341s,PASSED
+"click(findTestObject(""Amazon/TC_Amazon_002_ItemSearch/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,29-01-2024 23:23:05,29-01-2024 23:23:18,13.121s,PASSED
+"verifyTextPresent(items, true)",Chrome 121.0.0.0,,,29-01-2024 23:23:18,29-01-2024 23:23:21,2.124s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:23:21,29-01-2024 23:23:21,0.173s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_003,Chrome 121.0.0.0,,,29-01-2024 23:23:21,29-01-2024 23:24:27,1m - 5.953s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:23:21,29-01-2024 23:23:21,0.545s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:23:21,29-01-2024 23:23:21,0.121s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:23:21,29-01-2024 23:23:23,1.468s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""5g smartphone"")",Chrome 121.0.0.0,,,29-01-2024 23:23:23,29-01-2024 23:23:41,18.313s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,29-01-2024 23:23:41,29-01-2024 23:23:45,3.549s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Redmi 12 5G Moonstone Silver 6GB RAM 1_9b34f3""))",Chrome 121.0.0.0,,,29-01-2024 23:23:45,29-01-2024 23:23:46,0.921s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Samsung""))",Chrome 121.0.0.0,,,29-01-2024 23:23:46,29-01-2024 23:23:54,7.950s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Samsung Galaxy S24 Ultra 5G (Titanium _5709df""))",Chrome 121.0.0.0,,,29-01-2024 23:23:54,29-01-2024 23:23:55,1.561s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Over 20,000""))",Chrome 121.0.0.0,,,29-01-2024 23:23:55,29-01-2024 23:24:02,6.790s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/span_Electronics""))",Chrome 121.0.0.0,,,29-01-2024 23:24:02,29-01-2024 23:24:15,13.150s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/i_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,29-01-2024 23:24:15,29-01-2024 23:24:22,7.291s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in  5g smartphone/label""))",Chrome 121.0.0.0,,,29-01-2024 23:24:22,29-01-2024 23:24:23,0.829s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in 5g Smartphone - Over 20,000 _ab46dd/span_OnePlus Nord CE 3 5G (Aqua Surge, 12GB_9fd44c""))",Chrome 121.0.0.0,,,29-01-2024 23:24:23,29-01-2024 23:24:25,1.729s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in 5g Smartphone - Over 20,000 _ab46dd/div_SEARCH_DC_ASSETS_633895C,SEARCH_ATC_EXP_62a49c""))",Chrome 121.0.0.0,,,29-01-2024 23:24:25,29-01-2024 23:24:25,0.366s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in 5g Smartphone - Over 20,000 _ab46dd/i_4 Stars  Up""))",Chrome 121.0.0.0,,,29-01-2024 23:24:25,29-01-2024 23:24:26,0.327s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in 5g Smartphone - Over 20,000 _11e26c/i_4.1 out of 5 stars""))",Chrome 121.0.0.0,,,29-01-2024 23:24:26,29-01-2024 23:24:26,0.439s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_003_FilteredSearch/Page_Amazon.in 5g Smartphone - Over 20,000 _11e26c/div_Check each product page for other buyin_faa9a5""))",Chrome 121.0.0.0,,,29-01-2024 23:24:26,29-01-2024 23:24:26,0.326s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:24:26,29-01-2024 23:24:27,0.214s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_004,Chrome 121.0.0.0,,,29-01-2024 23:24:27,29-01-2024 23:24:52,25.455s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:24:27,29-01-2024 23:24:27,0.545s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:24:27,29-01-2024 23:24:27,0.124s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:24:27,29-01-2024 23:24:29,1.273s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""4k tv"")",Chrome 121.0.0.0,,,29-01-2024 23:24:29,29-01-2024 23:24:30,1.685s,PASSED
+"click(findTestObject(""Amazon/TC_Amazon_002_ItemSearch/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,29-01-2024 23:24:30,29-01-2024 23:24:37,6.305s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in  4k tv/span_108 cm (43 inches) Y Series 4K Ultra H_c3a727""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:37,29-01-2024 23:24:37,0.819s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in  4k tv/span_Sort byFeatured_1""))",Chrome 121.0.0.0,,,29-01-2024 23:24:37,29-01-2024 23:24:38,0.315s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in  4k tv/a_Price Low to High""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:38,29-01-2024 23:24:39,0.861s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in  4k tv/a_Price Low to High""))",Chrome 121.0.0.0,,,29-01-2024 23:24:39,29-01-2024 23:24:39,0.545s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_108 cm (43 inches) 4K Ultra HD Smart L_adcb75""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:39,29-01-2024 23:24:41,1.491s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Price Low to High""))",Chrome 121.0.0.0,,,29-01-2024 23:24:41,29-01-2024 23:24:41,0.438s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/a_Price High to Low""))",Chrome 121.0.0.0,,,29-01-2024 23:24:41,29-01-2024 23:24:42,0.661s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Price High to Low""))",Chrome 121.0.0.0,,,29-01-2024 23:24:42,29-01-2024 23:24:44,1.762s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/a_Avg. Customer Review""))",Chrome 121.0.0.0,,,29-01-2024 23:24:44,29-01-2024 23:24:46,2.100s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Avg. Customer Review""))",Chrome 121.0.0.0,,,29-01-2024 23:24:46,29-01-2024 23:24:47,1.706s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/a_Newest Arrivals""))",Chrome 121.0.0.0,,,29-01-2024 23:24:47,29-01-2024 23:24:48,0.530s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_Newest Arrivals""))",Chrome 121.0.0.0,,,29-01-2024 23:24:48,29-01-2024 23:24:50,1.669s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/a_Featured""))",Chrome 121.0.0.0,,,29-01-2024 23:24:50,29-01-2024 23:24:50,0.544s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_004_SortedSearch/Page_Amazon.in 4k Tv/span_108 cm (43 inches) Y Series 4K Ultra H_c3a727""))",Chrome 121.0.0.0,,,29-01-2024 23:24:50,29-01-2024 23:24:52,1.881s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:24:52,29-01-2024 23:24:52,0.135s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_005,Chrome 121.0.0.0,,,29-01-2024 23:24:52,29-01-2024 23:25:04,12.027s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:24:52,29-01-2024 23:24:53,0.585s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:24:53,29-01-2024 23:24:53,0.119s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:24:53,29-01-2024 23:24:55,2.375s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:55,29-01-2024 23:24:56,0.706s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""))",Chrome 121.0.0.0,,,29-01-2024 23:24:56,29-01-2024 23:24:57,1.441s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Sign In/a_Create your Amazon account""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:57,29-01-2024 23:24:58,0.871s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Sign In/a_Create your Amazon account""))",Chrome 121.0.0.0,,,29-01-2024 23:24:58,29-01-2024 23:24:59,0.900s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/h1_Create Account""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:24:59,29-01-2024 23:25:00,0.916s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/input_customerName""), ""Vladimir Putin"")",Chrome 121.0.0.0,,,29-01-2024 23:25:00,29-01-2024 23:25:01,0.561s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/input_email""), ""9876543210"")",Chrome 121.0.0.0,,,29-01-2024 23:25:01,29-01-2024 23:25:01,0.567s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/input_secondaryLoginClaim""), ""VladimirPutin@gmail.com"")",Chrome 121.0.0.0,,,29-01-2024 23:25:01,29-01-2024 23:25:02,0.607s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/input_password""), ""/iU0mF259Yuz6GJQpt5TBA=="")",Chrome 121.0.0.0,,,29-01-2024 23:25:02,29-01-2024 23:25:02,0.356s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/div_Please Enable Cookies to Continue      _3a9ca0""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:02,29-01-2024 23:25:03,0.510s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_005_SignUp/Page_Amazon Registration/inputcontinue""))",Chrome 121.0.0.0,,,29-01-2024 23:25:03,29-01-2024 23:25:04,1.350s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:25:04,29-01-2024 23:25:04,0.127s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_006,Chrome 121.0.0.0,,,29-01-2024 23:25:29,29-01-2024 23:25:40,10.649s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:25:29,29-01-2024 23:25:30,0.743s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:25:30,29-01-2024 23:25:30,0.127s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:25:30,29-01-2024 23:25:32,1.735s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:25:32,29-01-2024 23:25:32,0.008s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:32,29-01-2024 23:25:32,0.804s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""), ""Hello, sign in"")",Chrome 121.0.0.0,,,29-01-2024 23:25:32,29-01-2024 23:25:33,0.268s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""), STOP_ON_FAILURE)",Chrome 121.0.0.0,,,29-01-2024 23:25:33,29-01-2024 23:25:34,0.963s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Amazon Sign In/input_email""), ""nizamuddin1603@gmail.com"")",Chrome 121.0.0.0,,,29-01-2024 23:25:34,29-01-2024 23:25:35,1.301s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Amazon Sign In/inputcontinue""))",Chrome 121.0.0.0,,,29-01-2024 23:25:35,29-01-2024 23:25:36,1.068s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Amazon Sign In/input_password""), ""vXA07Bf7CSootDbf/pTjag=="")",Chrome 121.0.0.0,,,29-01-2024 23:25:36,29-01-2024 23:25:37,0.986s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 121.0.0.0,,,29-01-2024 23:25:37,29-01-2024 23:25:37,0.293s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_006_SignIn/Page_Amazon Sign In/div_There was a problem                    _7a87af""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:37,29-01-2024 23:25:40,2.249s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:25:40,29-01-2024 23:25:40,0.103s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_007,Chrome 121.0.0.0,,,29-01-2024 23:25:40,29-01-2024 23:25:55,14.941s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:25:40,29-01-2024 23:25:40,0.575s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:25:40,29-01-2024 23:25:40,0.120s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:25:40,29-01-2024 23:25:42,1.675s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Online Shopping site in India Shop Onl_10c5f3/i_hm-icon nav-sprite""))",Chrome 121.0.0.0,,,29-01-2024 23:25:42,29-01-2024 23:25:43,0.848s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Online Shopping site in India Shop Onl_10c5f3/a_Customer Service""))",Chrome 121.0.0.0,,,29-01-2024 23:25:43,29-01-2024 23:25:46,2.622s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/a_Help""))",Chrome 121.0.0.0,,,29-01-2024 23:25:46,29-01-2024 23:25:52,6.387s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/a_Customer Service""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:52,29-01-2024 23:25:53,0.802s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/a_Customer Service""))",Chrome 121.0.0.0,,,29-01-2024 23:25:53,29-01-2024 23:25:53,0.315s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/div_Customer Service                 Ask th_35d152""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:53,29-01-2024 23:25:54,0.836s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/a_Contact Us""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:25:54,29-01-2024 23:25:54,0.274s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_007_CustomerSupport/Page_Help - Amazon Customer Service/a_Contact Us""))",Chrome 121.0.0.0,,,29-01-2024 23:25:54,29-01-2024 23:25:55,0.335s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:25:55,29-01-2024 23:25:55,0.126s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_008,Chrome 121.0.0.0,,,29-01-2024 23:25:55,29-01-2024 23:26:38,42.859s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:25:55,29-01-2024 23:25:55,0.602s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:25:55,29-01-2024 23:25:55,0.124s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:25:55,29-01-2024 23:25:57,1.857s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""samsung tab"")",Chrome 121.0.0.0,,,29-01-2024 23:25:57,29-01-2024 23:26:12,14.285s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Amazon.in  samsung tab/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,29-01-2024 23:26:12,29-01-2024 23:26:18,5.961s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Amazon.in  samsung tab/span_Samsung Galaxy Tab A9 27.94 cm (11.0 i_4a94ea""))",Chrome 121.0.0.0,,,29-01-2024 23:26:18,29-01-2024 23:26:18,0.818s,PASSED
+"switchToWindowTitle(""Samsung Galaxy Tab A9+ 27.94 cm (11.0 inch) Display, RAM 8 GB, ROM 128 GB Expandable, Wi-Fi Tablet, Silver : Amazon.in: Electronics"")",Chrome 121.0.0.0,,,29-01-2024 23:26:18,29-01-2024 23:26:28,9.208s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Samsung Galaxy Tab A9 27.94 cm (11.0 i_76248f/input_submit.add-to-cart""))",Chrome 121.0.0.0,,,29-01-2024 23:26:28,29-01-2024 23:26:33,5.124s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Samsung Galaxy Tab A9 27.94 cm (11.0 i_76248f/aattach-close_sideSheet-link""))",Chrome 121.0.0.0,,,29-01-2024 23:26:33,29-01-2024 23:26:35,2.358s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_008_AddtoCart/Page_Samsung Galaxy Tab A9 27.94 cm (11.0 i_76248f/a_1                                        _7d74ab""))",Chrome 121.0.0.0,,,29-01-2024 23:26:35,29-01-2024 23:26:37,2.292s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:26:37,29-01-2024 23:26:38,0.181s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_009,Chrome 121.0.0.0,,,29-01-2024 23:26:38,29-01-2024 23:26:43,5.832s,PASSED
+"openBrowser(""www.amazon.in"")",Chrome 121.0.0.0,,,29-01-2024 23:26:38,29-01-2024 23:26:39,1.818s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:26:39,29-01-2024 23:26:40,0.124s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/span_Update location""), ""Update location"")",Chrome 121.0.0.0,,,29-01-2024 23:26:40,29-01-2024 23:26:40,0.624s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/span_Update location""))",Chrome 121.0.0.0,,,29-01-2024 23:26:40,29-01-2024 23:26:40,0.334s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/h4_Choose your location""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:40,29-01-2024 23:26:42,1.025s,PASSED
+"setText(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/inputGLUXZipUpdateInput""), ""226001"")",Chrome 121.0.0.0,,,29-01-2024 23:26:42,29-01-2024 23:26:42,0.593s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/input_a-button-input""))",Chrome 121.0.0.0,,,29-01-2024 23:26:42,29-01-2024 23:26:43,0.406s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_009_Location/Page_Online Shopping site in India Shop Onl_10c5f3/input_a-button-input""))",Chrome 121.0.0.0,,,29-01-2024 23:26:43,29-01-2024 23:26:43,0.733s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:26:43,29-01-2024 23:26:43,0.107s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_010,Chrome 121.0.0.0,,,29-01-2024 23:26:43,29-01-2024 23:26:56,12.617s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,29-01-2024 23:26:43,29-01-2024 23:26:44,0.555s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,29-01-2024 23:26:44,29-01-2024 23:26:44,0.124s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,29-01-2024 23:26:44,29-01-2024 23:26:46,1.669s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Online Shopping site in India Shop Onl_10c5f3/a_EN""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:46,29-01-2024 23:26:46,0.740s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Online Shopping site in India Shop Onl_10c5f3/a_EN""))",Chrome 121.0.0.0,,,29-01-2024 23:26:46,29-01-2024 23:26:47,0.966s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/div_(function(f) var _np(window.P._namespac_5a8a07""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:47,29-01-2024 23:26:48,0.920s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/h3_Language Settings""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:48,29-01-2024 23:26:49,0.254s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/span_-        HI                           _d828bb""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:49,29-01-2024 23:26:49,0.251s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 121.0.0.0,,,29-01-2024 23:26:49,29-01-2024 23:26:49,0.550s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/input_a-button-input""))",Chrome 121.0.0.0,,,29-01-2024 23:26:49,29-01-2024 23:26:50,0.945s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/div_(function(f) var _np(window.P._namespac_5a8a07_1""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:50,29-01-2024 23:26:51,0.596s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/input_a-button-input""), 0)",Chrome 121.0.0.0,,,29-01-2024 23:26:51,29-01-2024 23:26:51,0.259s,PASSED
+"click(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_Change Language Settings/input_a-button-input""))",Chrome 121.0.0.0,,,29-01-2024 23:26:51,29-01-2024 23:26:51,0.291s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon/TC_Amazon_010_Language/Page_, , ,    - Amazon.in/a_HI""), ""HI"")",Chrome 121.0.0.0,,,29-01-2024 23:26:51,29-01-2024 23:26:56,4.323s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,29-01-2024 23:26:56,29-01-2024 23:26:56,0.141s,PASSED
